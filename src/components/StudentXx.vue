@@ -20,7 +20,7 @@ export default {
     // 组件的data必须是函数式的  不能是对象式的
     data() {
         return {
-            msg:'我是一个汇发人',
+            msg:'我是一个汇法人',
             Myage:this.age
 
             
